@@ -1,0 +1,42 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Compiled source #
+###################
+*.com
+*.dll
+*.class
+*.exe
+*.o
+*.so
+
+# Webstorm workspace #
+######################
+*/workspace.xml
+
+# Generated files #
+generated/
